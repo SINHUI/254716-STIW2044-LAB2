@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+### Logo:
+![](https://github.com/SINHUI/254716-STIW2044-LAB2/blob/master/interface/splash.png)
+
+### Splash Screen:
+
+![](https://github.com/SINHUI/254716-STIW2044-LAB2/blob/master/interface/splashScreen.png)
+
+### Login Screen: 
+
+![](https://github.com/SINHUI/254716-STIW2044-LAB2/blob/master/interface/loginScreen.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
